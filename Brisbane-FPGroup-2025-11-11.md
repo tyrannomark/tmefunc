@@ -1,16 +1,3 @@
----
-isInbox: true
-isInboxProcessed: false
-whatIs: ""
-isActionable: false
-isReference: false
-isProject: false
-tags:
-nextAttention: 2025-11-07
-isSomedayMaybe: false
-creation date: 2025-11-07 11:55
-modification date: 2025-11-07 11:55
----
 # FP in Python made Easier
 
 
